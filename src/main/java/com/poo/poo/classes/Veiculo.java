@@ -7,10 +7,10 @@ public class Veiculo {
     //atributos comportamentos
     public String proprietario;
     public String Marca ;
-    String modelo ;    
-    public  int ano;
+    public String modelo ;    
+    public int ano;
     public String cor;
-    public double quilometragem;
+    public Double quilometragem;
     public String renavan; 
 
     //comportamentos

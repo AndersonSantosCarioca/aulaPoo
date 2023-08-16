@@ -17,9 +17,9 @@ public class PooApplication {
 		carroDoAnderson.Marca = "Gol";
 		carroDoAnderson.ano = 1970;
 		carroDoAnderson.cor = "vermelho";
-		carroDoAnderson.quilometragem = 4000;
+		carroDoAnderson.quilometragem = (double) 4000;
 
-		System.out.println(carroDoAnderson.cor);
+		System.out.println(carroDoAnderson.quilometragem);
 
 
 
