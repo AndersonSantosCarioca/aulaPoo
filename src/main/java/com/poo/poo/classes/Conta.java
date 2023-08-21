@@ -7,6 +7,7 @@ public class Conta {
     private String nomeConta;
     private String senha;
     private String setNumeroConta;
+    public char[] get;
 
     public void setNumeroConta(String numero){
         this.setNumeroConta = numero;
